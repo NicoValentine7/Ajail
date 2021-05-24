@@ -1,29 +1,43 @@
-# Ajail For Yourself
+# Overview
 
 アジャイル開発を自分に適用する
 だって時間無駄にしすぎなんだもん
 
 あくまで自分用
 
-# Feature
+# About Development
 
-## Dream
+## use
+
+vue
+
+## Later
+
+vuetify css router
+
+# Screen List
+
+## home
+
+Happy, Sprints(How many times)
+
+## List of Sprints
+
+Number of Achievements[graph],
+
+## ?setting
+
+# Feature List
 
 ## Happy
 
-task, habit
-
 ## Challenge
 
-## Resources
+## Sprint
 
-スプリント
-一週間
-一ヶ月
-三ヶ月
-半年
-一年
+<!-- ## Dream -->
+<!-- ## Research -->
 
-## Research
+# Memo
 
-勉強
+スプリントの振り返り 時間計測　後でこの作業時間こんなにかかってたんだ-てなりたい
